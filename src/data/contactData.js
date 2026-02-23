@@ -34,7 +34,7 @@ const contacts = [
         id: 5,
         name: 'Rick Sanchez',
         last_time_connection: 'Hace 5 minutos',
-        profile_picture: 'src/assets/rick',
+        profile_picture: '/src/assets/rick',
         messages: [
             { id: 1, text: 'Wubba lubba dub dub!', send_by_me: false, time: '09:00', is_read: true },
             { id: 2, text: '¿Qué significa eso?', send_by_me: true, time: '09:01', is_read: true },

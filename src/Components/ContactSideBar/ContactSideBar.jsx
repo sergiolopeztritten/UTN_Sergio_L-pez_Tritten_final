@@ -46,7 +46,7 @@ export default function ContactSidebar() {
         <aside className="sidebar">
             {/* Header */}
             <header className="sidebar-header">
-                <h2>WhatsApp Clone</h2>
+                <h2>WhatsApp febril</h2>
             </header>
 
             {/* Búsqueda — usa search params de react-router-dom */}

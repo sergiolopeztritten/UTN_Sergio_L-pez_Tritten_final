@@ -39,6 +39,27 @@ const replies = {
         'No necesito tu validación, soy un genio.',
         'Anda a buscar las baterías de mi portal gun, Morty... digo, vos.',
     ]
+    ,
+    6: [ // Mr. Popo
+        'El espejo te mostrará lo que necesitás ver.',
+        'En el Palacio Dios, el tiempo no existe.',
+        'Soy más viejo que cualquier dios que conozcas.',
+        'La disciplina es el camino al poder.',
+        'No me hagas repetirlo.',
+        'He entrenado a guerreros mucho más fuertes que vos.',
+        'Silencio. Aquí mando yo.',
+        '...Interesante. Muy interesante.',
+    ],
+    7: [ // Zamarripa
+        'Sí, dale.',
+        'No sé, preguntale a otro.',
+        'Eso ya lo sabía yo.',
+        'Mmmm, puede ser.',
+        'Jaja, re gracioso eso.',
+        'Igual ya para qué.',
+        'Me parece bien, ¿y?',
+        'La verdad que sí, tenés razón.',
+    ]
 }
 
 export default replies

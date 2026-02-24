@@ -41,6 +41,29 @@ const contacts = [
             { id: 3, text: 'Significa que estoy en dolor intenso. Morty, agarra el portal gun.', send_by_me: false, time: '09:02', is_read: false }
         ]
     }
+    ,
+    {
+        id: 6,
+        name: 'Mr. Popo',
+        last_time_connection: 'En línea',
+        profile_picture: '/mrpopo.jpg',
+        messages: [
+            { id: 1, text: 'Bienvenido al Palacio Dios. Soy Mr. Popo.', send_by_me: false, time: '07:00', is_read: true },
+            { id: 2, text:'¿Me podés enseñar a pelear?', send_by_me: true, time: '07:05', is_read: true },
+            { id: 3, text: 'Primero deberás superar... el espejo.', send_by_me: false, time: '07:06', is_read: false }
+        ]
+    },
+    {
+        id: 7,
+        name: 'Zamarripa',
+        last_time_connection: 'Hace 2 horas',
+        profile_picture: '/zamarripa.jpg',
+        messages: [
+            { id: 1, text: '¡Ey! ¿Cómo andás?', send_by_me: true, time: '11:00', is_read: true },
+            { id: 2, text: 'Acá, sobreviviendo el día a día.', send_by_me: false, time: '11:10', is_read: true },
+            { id: 3, text: 'Jaja, igual que siempre entonces.', send_by_me: true, time: '11:12', is_read: false }
+        ]
+    }
 ]
 
 export default contacts
